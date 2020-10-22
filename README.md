@@ -1,2 +1,2 @@
 # Cheatsheet
-_A repository for different cheatsheets for coding._
+_A repository for different cheatsheets._
