@@ -1,5 +1,5 @@
 # Cheatsheet
-_A repository for different cheatsheets._
+_A repository for different cheatsheets and examples._
 
 - Python
 - Linux
